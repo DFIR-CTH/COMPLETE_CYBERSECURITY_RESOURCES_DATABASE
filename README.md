@@ -2,6 +2,8 @@
 
 ## 📑 TABLE OF CONTENTS
 
+- [YouTube-Cybersecurity-Channels](docs/YouTube-Cybersecurity-Channels.md)
+
 - [OSINT & Reconnaissance](docs/OSINT%20%26%20Reconnaissance.md)
 
 - [Incident Response & IR Tools](docs/Incident%20Response%20%26%20IR%20Tools.md)
