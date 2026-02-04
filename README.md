@@ -3,7 +3,7 @@
 ## 📑 TABLE OF CONTENTS
 
 - [OSINT & Reconnaissance](OSINT%20&%20Reconnaissance.md)
-- [Incident Response & IR Tools](#incident-response--ir-tools)
+- [Incident Response & IR Tools](Incident%20Response%20%26%20IR%20Tools.md)
 - [Digital Forensics & Memory Analysis](#digital-forensics--memory-analysis)
 - [Malware Analysis & Reverse Engineering](#malware-analysis--reverse-engineering)
 - [Network Security & Analysis](#network-security--analysis)
