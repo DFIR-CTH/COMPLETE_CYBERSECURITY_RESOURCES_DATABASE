@@ -2,7 +2,7 @@
 
 ## 📑 TABLE OF CONTENTS
 
-- [OSINT & Reconnaissance](#https://github.com/DFIR-CTH/COMPLETE_CYBERSECURITY_RESOURCES_DATABASE/blob/main/OSINT%20&%20Reconnaissance.md)
+- [OSINT & Reconnaissance](#osint--reconnaissance)
 - [Incident Response & IR Tools](#incident-response--ir-tools)
 - [Digital Forensics & Memory Analysis](#digital-forensics--memory-analysis)
 - [Malware Analysis & Reverse Engineering](#malware-analysis--reverse-engineering)
