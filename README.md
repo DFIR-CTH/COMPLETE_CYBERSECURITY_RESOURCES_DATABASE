@@ -22,6 +22,8 @@
 
 - [Certifications & Training Courses](docs/Certifications%20%26%20Training%20Courses.md)
 
+- [Medium Articles]()
+
 - [Penetration Testing & Vulnerability Assessment](docs/Penetration%20Testing%20%26%20Vulnerability%20Assessment.md)
 
 - [CTF Platforms & Capture The Flag](docs/CTF%20Platforms%20%26%20Capture%20The%20Flag.md)
